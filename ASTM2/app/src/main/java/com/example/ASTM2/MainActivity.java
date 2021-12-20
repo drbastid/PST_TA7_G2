@@ -26,11 +26,11 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void ingresar(View v) {
-        String[] nombres = {"Pedrito", "Dyllan Ricardo"};
-        String[] apellidos = {"Navaja", "Bastidas Palacios"};
-        String[] celular = {"0123456789", "0987447067"};
+        String[] nombres = {"Andre Alberto", "Dyllan Ricardo"};
+        String[] apellidos = {"Aguirre Apolo", "Bastidas Palacios"};
+        String[] celular = {"0998082045", "0987447067"};
         String[] genero = {"comedia", "aventura"};
-        String[] user1 = {"usuario", "drbastid"};
+        String[] user1 = {"andragui", "drbastid"};
         String[] cuser1 = {"1234abcd", "2910drbp"};
         boolean bandera = true;
         for (int i = 0; i < user1.length; i++) {
