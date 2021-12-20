@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PST_TA7_G2</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="contrase_a">Contraseña:</string>
+    <string name="usuario">Usuario:</string>
+    <string name="User">Usuario</string>
+    <string name="string_user" />
+    <string name="inicio">TODO</string>
+</resources>
