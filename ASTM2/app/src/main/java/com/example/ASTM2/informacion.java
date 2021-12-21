@@ -26,5 +26,10 @@ public class informacion extends AppCompatActivity {
     public void librosButton(View v){
         finish();
     }
+    public void cerrarSesion(View v){
+        finishAffinity();
+        Intent i = new Intent(this, MainActivity.class);
+        startActivity(i);
+    }
 
 }
